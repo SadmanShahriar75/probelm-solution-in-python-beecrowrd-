@@ -1,0 +1,11 @@
+A, B, C = map(float, input().split())
+TRIANGULO = 1/2 * A * C
+CIRCULO = 3.14159 * C**2
+TRAPEZIO = 1/2 * (A+B) * C
+QUADRADO = B**2
+RETANGULO = A*B
+print(F"TRIANGULO: {TRIANGULO:.3F}")
+print(F"CIRCULO: {CIRCULO:.3F}")
+print(F"TRAPEZIO: {TRAPEZIO:.3F}")
+print(F"QUADRADO: {QUADRADO:.3F}")
+print(F"RETANGULO: {RETANGULO:.3F}")
