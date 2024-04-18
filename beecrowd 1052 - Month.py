@@ -1,6 +1,3 @@
-
-
-
 month = int(input())
 
 if month == 1:
@@ -23,7 +20,7 @@ elif month == 9:
     print("September")
 elif month == 10:
     print("October")
-elif month == 12:
+elif month == 11:
     print("November")
 elif month == 12:
     print("December")

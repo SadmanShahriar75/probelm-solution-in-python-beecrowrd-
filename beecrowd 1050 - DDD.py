@@ -1,7 +1,4 @@
-
-
 a = int(input())
-
 if a == 61:
     print("Brasilia")
 elif a == 71:
@@ -18,6 +15,5 @@ elif a == 27:
     print("Vitoria")
 elif a ==31:
     print("Belo Horizonte")
-
 else:
     print("DDD nao cadastrado")
