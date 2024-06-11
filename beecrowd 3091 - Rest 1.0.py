@@ -1,6 +1,4 @@
-
 a = int(input())
 b = int(input())
-div = a / b
-# divx = int(div)
+div = a % b
 print(div)
