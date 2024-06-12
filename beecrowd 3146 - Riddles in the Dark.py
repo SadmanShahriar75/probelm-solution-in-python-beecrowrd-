@@ -1,4 +1,3 @@
-
 a = float(input())
 pi = 3.14 * 2
 now = pi * a
